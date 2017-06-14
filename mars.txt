@@ -1,4 +1,4 @@
 Mars is a red planet!`
  the file!!!
  This is a new edit to my Mars file
-
+This is a added line from Git GUi
